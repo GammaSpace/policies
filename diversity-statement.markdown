@@ -1,6 +1,6 @@
 ### Diversity and Inclusiveness Statement
 
-Bento Miso is a community that values, defends and builds equitable experiences and diversity. We are committed to not just including marginalized voices and bodies, but also to actively fighting racism, sexism, and oppression in all its forms.
+Bento Miso is a community that values and recognizes diversity, and defends and builds equitable experiences. We are committed not only to including marginalized voices and bodies, but also to actively fighting racism, sexism, and oppression in all its forms.
 
 We **welcome** and **advocate for** the presence and contributions of all people regardless of their ability, age, body size, culture, education, ethnic origin, gender expression, gender identity, immigration status, marital status, nationality, physical appearance, political affiliations, race, religion, sexual orientation, sexuality, or socioeconomic status.
 
