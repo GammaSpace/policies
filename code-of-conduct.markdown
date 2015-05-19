@@ -4,8 +4,6 @@ All **community participants**--including members and guests of members, event h
 
 By becoming a member of Bento Miso, or attending or hosting any event at Bento Miso in any capacity, you agree to abide by this code of conduct, and cooperate with organizers who enforce it.
 
-By registering for or hosting an event, you agree to make your name visible on the public event page. This visibility helps maintain the safety of our space. Anyone not registered for an event may be denied entry.
-
 ## Expected Behavior
 
 We insist that everyone who uses the space remains mindful of, and takes responsibility for, their speech and behavior. This includes:
@@ -14,7 +12,7 @@ We insist that everyone who uses the space remains mindful of, and takes respons
 - Actively listening to others and not dominating discussions.
 - Respecting physical and emotional boundaries. Always ask before touching, and check in before discussing topics that may be triggering.
 - Not making assumptions about identity, experiences, or preferred pronouns.
-- Not using words that are racist, sexist, homophobic, classist, cissexist or ableist.
+- Not using words that are racist, sexist, homophobic, classist, transphobic, cissexist or ableist.
 - Humbly accepting respectful correction (or correcting yourself!), keeping in mind that the impact of your words on other people is more important than your intent.
 
 ## Unacceptable Behavior
@@ -42,8 +40,8 @@ Anyone who engages in sustained ‬unacceptable behavior may be sanctioned ‬or
 If you witness or are subject to unacceptable behavior, or experience marginalizing or silencing behavior that limits your full participation in any Bento Miso event, please talk to any of the following people:
 
 - The host of the event you are attending (listed on the event page)
-- [Henry Faber][1] - (416) 879-8942
-- [Jennie Faber][2] - (416) 857-9189
+- [Henry Faber][1]
+- [Jennie Faber][2]
 
 Your conversation will be held in confidence.
 
@@ -51,5 +49,7 @@ When you come to us with a problem during an event, it is our top priority to he
 
 Community‭ ‬organizers‭ ‬are‭ ‬available‭ ‬to‭ ‬help‭ you ‬engage‭ ‬with‭ ‬local‭ ‬law‭ ‬enforcement (solely at your request).
 
-[1]:	https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=henry@bentomiso.com
-[2]:	https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jennie@bentomiso.com
+*By registering for or hosting an event, you agree to make your name visible to event organizers and facility staff. This visibility helps maintain the safety of our space. Anyone not registered for an event may be denied entry at the discretion of the event host.*
+
+[1]:	mailto:henry@bentomiso.com
+[2]:	mailto:jennie@bentomiso.com
