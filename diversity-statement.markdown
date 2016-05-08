@@ -10,7 +10,7 @@ Prejudice, oppression, and discrimination are detrimental to the health and grow
 
 The terms we use to describe our experience are always changing, and we are always learning. We are eager to maintain and defend the safety and inclusivity of this community, so:
 
-- If you think of something that is missing from this statement, or a way we could improve it, please send us an email at [info@bentomiso.com][1].
+- If you think of something that is missing from this statement, or a way we could improve it, please send us an email at [info@gammaspace.ca][1].
 - Please feel free to fork this document or issue a pull request on [Github][2].
 
 [1]:	mailto:info@gammaspace.ca
