@@ -2,7 +2,7 @@
 
 All **community participants**--including members and guests of members, event hosts, sponsors, presenters, exhibitors and attendees--are expected to abide by this code of conduct.
 
-By becoming a member of Bento Miso, or attending or hosting any event at Bento Miso in any capacity, you agree to abide by this code of conduct, and cooperate with organizers who enforce it.
+By becoming a member of Gamma Space, or attending or hosting any event at Gamma Space in any capacity, you agree to abide by this code of conduct, and cooperate with organizers who enforce it.
 
 ## Expected Behavior
 
@@ -37,19 +37,19 @@ Anyone who engages in sustained ‬unacceptable behavior may be sanctioned ‬or
 
 ### What to do if you need help
 
-If you witness or are subject to unacceptable behavior, or experience marginalizing or silencing behavior that limits your full participation in any Bento Miso event, please talk to any of the following people:
+If you witness or are subject to unacceptable behavior, or experience marginalizing or silencing behavior that limits your full participation in any Gamma Space event, please talk to any of the following people:
 
 - The host of the event you are attending (listed on the event page)
 - [Henry Faber][1]
-- [Jennie Faber][2]
+- [Jennie Robinson Faber][2]
 
 Your conversation will be held in confidence.
 
-When you come to us with a problem during an event, it is our top priority to help you feel safe as quickly as possible. Next, a small group of community organizers and members will meet to decide what our response will be. Then, we will warn or remove the offender depending on the circumstances, taking your and the community's safety and wishes into account.
+When you come to us with a problem during an event, it is our top priority to help you feel safe as quickly as possible. Next, a small group of community organizers and members will meet to decide what our response will be in accordance with our written conflict resolution and equity policies. Then, we will warn or remove the offender depending on the circumstances, taking your and the community's safety and wishes into account. If the problem does not impact your human rights or safety, we may ask the involved parties to leave the event and schedule a time to engage in negotiation and mediation at a later date.
 
 Community‭ ‬organizers‭ ‬are‭ ‬available‭ ‬to‭ ‬help‭ you ‬engage‭ ‬with‭ ‬local‭ ‬law‭ ‬enforcement (solely at your request).
 
 *By registering for or hosting an event, you agree to make your name visible to event organizers and facility staff. This visibility helps maintain the safety of our space. Anyone not registered for an event may be denied entry at the discretion of the event host.*
 
-[1]:	mailto:henry@bentomiso.com
-[2]:	mailto:jennie@bentomiso.com
+[1]:	mailto:henry@gammaspace.ca
+[2]:	mailto:jennie@gammaspace.ca
