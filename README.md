@@ -12,3 +12,11 @@ We recommend you use these policies as a jumping-off point; take time to refine 
 [1]: https://github.com/GammaSpace/policies/blob/master/code-of-conduct.markdown
 [2]: https://github.com/GammaSpace/policies/blob/master/diversity-statement.markdown
 [3]: https://github.com/GammaSpace/policies/blob/master/accessibility.markdown
+
+
+
+![][image-1]
+
+
+
+[image-1]:	gamma_space_logo_colour.png
