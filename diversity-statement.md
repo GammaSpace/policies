@@ -14,4 +14,4 @@ The terms we use to describe our experience are always changing, and we are alwa
 - Please feel free to fork this document or issue a pull request on [Github][2].
 
 [1]:	mailto:info@gammaspace.ca
-[2]:	https://github.com/GammaSpace/policies/blob/master/diversity-statement.markdown
+[2]:	https://github.com/GammaSpace/policies/blob/master/diversity-statement.md
