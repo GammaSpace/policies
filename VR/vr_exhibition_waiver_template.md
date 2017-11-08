@@ -1,3 +1,5 @@
+# VR User Waiver Template
+
 _Event Name, Info, Location_
 
 Virtual Reality (VR) is a relatively new, fully immersive technology that may have an unexpected effect on you. Please be aware of the following:
