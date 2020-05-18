@@ -5,4 +5,4 @@ Gamma Space (formerly Bento Miso) makes its code of conduct, inclusiveness state
 
 We recommend you use these policies as a jumping-off point; take time to refine them to fit your group; and ensure your staff, members and board provide input.
 
-![Gamma Space Logo](/assets/images/gamma_space_logo_colour.png)
+![Gamma Space Logo](/assets/images/gamma_space_logo@2x.png)
