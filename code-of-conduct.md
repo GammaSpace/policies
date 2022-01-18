@@ -1,23 +1,23 @@
 # Code of Conduct
 
-All **community participants**--including members and guests of members, event hosts, sponsors, presenters, exhibitors and attendees--are expected to abide by this code of conduct.
+All **community participants** – including members, guests of members, staff, volunteers, event hosts, sponsors, presenters, exhibitors and attendees – are expected to abide by this code of conduct.
 
-By becoming a member of Gamma Space, or attending or hosting any event at Gamma Space in any capacity, you agree to abide by this code of conduct, and cooperate with organizers who enforce it.
+By becoming a member of Gamma Space, attending or hosting any event here, or joining our Slack team, you agree to abide by this code of conduct, and cooperate with organizers who enforce it.
 
 ## Expected Behavior
 
-We insist that everyone who uses the space remains mindful of, and takes responsibility for, their speech and behavior. This includes:
+We insist that everyone who uses this community space remains mindful of, and takes responsibility for, their speech and behavior. This includes:
 
-- Always acting out of respect and concern for the free expression of others.
-- Actively listening to others and not dominating discussions.
-- Respecting physical and emotional boundaries. Always ask before touching, and check in before discussing topics that may be triggering.
-- Not making assumptions about identity, experiences, or preferred pronouns.
-- Not using words that are racist, sexist, homophobic, classist, transphobic, cissexist or ableist.
-- Humbly accepting respectful correction (or correcting yourself!), keeping in mind that the impact of your words on other people is more important than your intent.
+- Always acting out of respect and concern for the wellbeing and free expression of others
+- Actively listening to others and not dominating discussions
+- Respecting physical and emotional boundaries
+- Not making assumptions about identity, experiences, or preferred pronouns
+- Not using words that are racist, sexist, homophobic, classist, transphobic, cissexist or ableist
+- Humbly accepting respectful correction (or correcting yourself), keeping in mind that the impact of your words on other people is more important than your intent
 
 ## Unacceptable Behavior
 
-We believe that failing to address dynamics of hierarchy, power and privilege alienates and further victimizes our members and prevents us from creating the safe equitable space we want.
+We believe that failing to address dynamics of hierarchy, power and privilege alienates and further victimizes members of a community and prevents us from creating the safe, equitable and welcoming space we want.
 
 **We do not tolerate oppressive behavior, harassment, destructive behavior, or exclusionary actions.**
 
@@ -37,11 +37,7 @@ Anyone who engages in sustained ‬unacceptable behavior may be sanctioned ‬or
 
 ### What to do if you need help
 
-If you witness or are subject to unacceptable behavior, or experience marginalizing or silencing behavior that limits your full participation in any Gamma Space event, please talk to any of the following people:
-
-- The host of the event you are attending (listed on the event page)
-- [Henry Faber][1]
-- [Jennie Robinson Faber][2]
+If you witness or are subject to unacceptable behavior, or experience marginalizing or silencing behavior that limits your full participation, please speak with the host of the event you are attending, a Gamma Space co-op member or volunteer. You can also report an incident to [coc@gammaspace.ca][1].
 
 Your conversation will be held in confidence.
 
@@ -49,7 +45,4 @@ When you come to us with a problem during an event, it is our top priority to he
 
 Community‭ ‬organizers‭ ‬are‭ ‬available‭ ‬to‭ ‬help‭ you ‬engage‭ ‬with‭ ‬local‭ ‬law‭ ‬enforcement (solely at your request).
 
-*By registering for or hosting an event, you agree to make your name visible to event organizers and facility staff. This visibility helps maintain the safety of our space. Anyone not registered for an event may be denied entry at the discretion of the event host.*
-
-[1]:	mailto:henry@gammaspace.ca
-[2]:	mailto:jennie@gammaspace.ca
+[1]:	mailto:coc@gammaspace.ca
