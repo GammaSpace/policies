@@ -4,6 +4,10 @@ All **community participants** – including members, guests of members, staff,
 
 By becoming a member of Gamma Space, attending or hosting any event here, or joining our Slack team, you agree to abide by this code of conduct, and cooperate with organizers who enforce it.
 
+## Anti-Oppression and Decolonization
+
+We commit to actively working to inform, learn, teach, activate, model, and champion values and practices of anti-oppression and decolonization in all community activities and shared spaces. We understand this to be an iterative, humbling and rewarding process that requires time, care, compassion, love, attention, courageous and gracious commitment; that it involves continuous self-examination concerning our roles in society, culture, and history; and that it extends beyond compliance with diversity and human rights standards. Our goal is to dismantle power and privilege and mitigate systemic inequalities for those most affected by oppression and colonization – while investing in both personal growth and collective well-being. 
+
 ## Expected Behavior
 
 We insist that everyone who uses this community space remains mindful of, and takes responsibility for, their speech and behavior. This includes:
