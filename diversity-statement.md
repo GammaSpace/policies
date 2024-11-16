@@ -1,4 +1,4 @@
-### Diversity and Inclusiveness Statement
+# Diversity and Inclusiveness Statement
 
 Gamma Space is a community that values and recognizes diversity, and defends and builds equitable experiences. We are committed not only to including marginalized voices and bodies, but also to actively fighting racism, sexism, and oppression in all its forms.
 
@@ -6,7 +6,11 @@ We **welcome** and **advocate for** the presence and contributions of all people
 
 Prejudice, oppression, and discrimination are detrimental to the health and growth of our community and the individuals who are a part of it. Supporting the visibility of our diverse lives enhances the experiences of all community members. We recognize and honor our differences and vigorously defend Gamma Space as a safe and equitable space.
 
-### Have a suggestion?
+## Anti-Oppression and Decolonization
+
+We commit to actively working to inform, learn, teach, activate, model, and champion values and practices of anti-oppression and decolonization in all community activities and shared spaces. We understand this to be an iterative, humbling and rewarding process that requires time, care, compassion, love, attention, courageous and gracious commitment; that it involves continuous self-examination concerning our roles in society, culture, and history; and that it extends beyond compliance with diversity and human rights standards. Our goal is to dismantle power and privilege and mitigate systemic inequalities for those most affected by oppression and colonization – while investing in both personal growth and collective well-being. 
+
+## Have a suggestion?
 
 The terms we use to describe our experience are always changing, and we are always learning. We are eager to maintain and defend the safety and inclusivity of this community, so:
 
